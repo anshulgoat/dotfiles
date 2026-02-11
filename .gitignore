@@ -1,0 +1,21 @@
+*
+
+# git metadata
+!.gitignore
+
+# whitelisted
+!nvim/
+!dconf/
+!fish/
+!org.gnome.Ptyxis/
+!spicetify/
+!starship.toml
+
+# allow content inside
+!nvim/**
+!dconf/**
+!fish/**
+!org.gnome.Ptyxis/**
+!spicetify/**
+!starship.toml**
+
